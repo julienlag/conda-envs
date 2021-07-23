@@ -67,6 +67,7 @@ dependencies:
   - openssl=1.1.1k
   - paml=4.9
   - pango=1.48.5
+  - parallel=20210622
   - pcre=8.44
   - perl=5.26.2
   - perl-aceperl=1.92

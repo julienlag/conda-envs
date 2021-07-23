@@ -67,6 +67,7 @@ dependencies:
   - openssl=1.1.1k=h7f98852_0
   - paml=4.9=h779adbc_6
   - pango=1.48.5=hb8ff022_0
+  - parallel=20210622=ha770c72_0
   - pcre=8.44=he1b5a44_0
   - perl=5.26.2=h36c2ea0_1008
   - perl-aceperl=1.92=pl526_2
